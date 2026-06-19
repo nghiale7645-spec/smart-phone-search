@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+venv/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Môi trường và API Keys
+.env
+
+# Data
+data/
